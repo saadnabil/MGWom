@@ -1,0 +1,60 @@
+[26-Dec-2023 12:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home2/womniz/admin.womniz.com/routes/api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/api.php on line 11
+[26-Dec-2023 12:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home2/womniz/admin.womniz.com/routes/api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/api.php on line 11
+[26-Dec-2023 12:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home2/womniz/admin.womniz.com/routes/api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/api.php on line 11
+[26-Dec-2023 12:00:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home2/womniz/admin.womniz.com/routes/api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/api.php on line 11
+[26-Dec-2023 12:00:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home2/womniz/admin.womniz.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/channels.php on line 16
+[26-Dec-2023 12:00:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home2/womniz/admin.womniz.com/routes/api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/api.php on line 11
+[26-Dec-2023 12:00:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home2/womniz/admin.womniz.com/routes/api.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/womniz/admin.womniz.com/routes/api.php on line 11
